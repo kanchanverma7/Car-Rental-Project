@@ -14,3 +14,6 @@ Build an online car rental platform using Object-Oriented Programming in Python.
 
 ## License
 This project is licensed under the Apache License Version 2.0
+
+Author:
+Kanchan Verma
