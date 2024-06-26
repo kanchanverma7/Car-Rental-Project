@@ -1,4 +1,4 @@
-# Car-Rental-Project
+# Car_Rental_Project
 Build an online car rental platform using Object-Oriented Programming in Python.
 
 ## Features
