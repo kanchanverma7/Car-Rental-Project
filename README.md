@@ -12,6 +12,5 @@ Build an online car rental platform using Object-Oriented Programming in Python.
 - Python
 - Datetime module for handling rental time and billing
 
-
-License
-This project is licensed under the Apache License.
+## License
+This project is licensed under the Apache License Version 2.0
